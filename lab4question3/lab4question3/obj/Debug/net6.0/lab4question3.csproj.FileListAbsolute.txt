@@ -1,0 +1,15 @@
+C:\Users\213009\source\repos\lab4question3\lab4question3\bin\Debug\net6.0\lab4question3.exe
+C:\Users\213009\source\repos\lab4question3\lab4question3\bin\Debug\net6.0\lab4question3.deps.json
+C:\Users\213009\source\repos\lab4question3\lab4question3\bin\Debug\net6.0\lab4question3.runtimeconfig.json
+C:\Users\213009\source\repos\lab4question3\lab4question3\bin\Debug\net6.0\lab4question3.dll
+C:\Users\213009\source\repos\lab4question3\lab4question3\bin\Debug\net6.0\lab4question3.pdb
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.csproj.AssemblyReference.cache
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.AssemblyInfoInputs.cache
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.AssemblyInfo.cs
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.csproj.CoreCompileInputs.cache
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.dll
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\refint\lab4question3.dll
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.pdb
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\lab4question3.genruntimeconfig.cache
+C:\Users\213009\source\repos\lab4question3\lab4question3\obj\Debug\net6.0\ref\lab4question3.dll

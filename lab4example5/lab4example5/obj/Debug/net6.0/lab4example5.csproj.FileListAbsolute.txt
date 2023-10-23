@@ -1,0 +1,15 @@
+C:\Users\213009\source\repos\lab4example5\lab4example5\bin\Debug\net6.0\lab4example5.exe
+C:\Users\213009\source\repos\lab4example5\lab4example5\bin\Debug\net6.0\lab4example5.deps.json
+C:\Users\213009\source\repos\lab4example5\lab4example5\bin\Debug\net6.0\lab4example5.runtimeconfig.json
+C:\Users\213009\source\repos\lab4example5\lab4example5\bin\Debug\net6.0\lab4example5.dll
+C:\Users\213009\source\repos\lab4example5\lab4example5\bin\Debug\net6.0\lab4example5.pdb
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.csproj.AssemblyReference.cache
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.AssemblyInfoInputs.cache
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.AssemblyInfo.cs
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.csproj.CoreCompileInputs.cache
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.dll
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\refint\lab4example5.dll
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.pdb
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\lab4example5.genruntimeconfig.cache
+C:\Users\213009\source\repos\lab4example5\lab4example5\obj\Debug\net6.0\ref\lab4example5.dll
